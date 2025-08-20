@@ -22,6 +22,14 @@
             ]
           },
           {
+            "group": "Writing Samples",
+            "pages": [
+              "samples/blog",
+              "samples/poem"
+            ]
+
+          },
+          {
             "group": "Customization",
             "pages": [
               "essentials/settings",
